@@ -4,7 +4,7 @@
 #include <array>
 #include <iostream>
 
-
+// In this task, we used the rational class from the previous task as the main data type our matrix.
 #include "rational.h"
 #include "matrix.h"
 
