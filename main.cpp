@@ -31,6 +31,7 @@ void EqualMatrix(const Matrix<T, N, M>& matrix, const std::array<std::array<T, M
 }
 
 //Some of the tests to check the health of the code
+
 #ifdef MATRIX_SQUARE_MATRIX_IMPLEMENTED
 int main() {
   {
