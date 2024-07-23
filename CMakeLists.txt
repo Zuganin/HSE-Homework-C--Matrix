@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(BDZ_Matrix main.cpp
         matrix.h
+        rational.cpp
 )
