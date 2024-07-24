@@ -1,5 +1,3 @@
-
-
 #ifndef SEM4_A_RATIONAL_H
 #define SEM4_A_RATIONAL_H
 

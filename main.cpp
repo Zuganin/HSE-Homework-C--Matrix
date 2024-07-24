@@ -1,6 +1,5 @@
 #define CATCH_CONFIG_MAIN
 
-
 #include <array>
 #include <iostream>
 
@@ -19,7 +18,6 @@ void REQUIRE(bool b) {
 }
 
 void REQUIRE_FALSE(bool b) { return REQUIRE(!b); }
-
 
 template <class T, size_t N, size_t M>
 void EqualMatrix(const Matrix<T, N, M>& matrix, const std::array<std::array<T, M>, N>& arr) {

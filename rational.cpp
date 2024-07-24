@@ -1,4 +1,3 @@
-
 #include "rational.h"
 
 #include <iostream>
